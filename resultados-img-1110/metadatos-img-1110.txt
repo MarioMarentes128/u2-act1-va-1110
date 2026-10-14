@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-serpiente-1110.jpg
+Ruta del archivo: C:\IA_GPO3H\VA_1110\p1-act1-1110\img-original-1110\img-serpiente-1110.jpg
+Formato por extension: .JPG
+Tamano en bytes: 31670
+Tamano en KB: 30.93
+Tamano en MB: 0.0302
+
+DIMENSIONES
+-----------
+Ancho: 678 pixeles
+Alto: 452 pixeles
+Resolucion: 678 x 452
+Total de pixeles: 306,456
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 119.25
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 109.04
+Verde (G): 148.13
+Rojo (R): 100.60
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
